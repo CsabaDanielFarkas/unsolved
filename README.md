@@ -6,3 +6,7 @@
 -An abelian group is free iff projective.
 
 -Tensoring split SES remains SES
+
+-Projective modules are flat
+
+-Flat for SES then flat for LES?
